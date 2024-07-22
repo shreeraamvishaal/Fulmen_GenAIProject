@@ -1,1 +1,1 @@
-# Fulmen_GenAIProject
+# GenAIProject
